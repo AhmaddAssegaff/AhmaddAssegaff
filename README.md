@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on backend projects using **JavaScript** and **TypeScript**.  <br>👯 I’m looking to collaborate on backend-focused open-source projects.  <br>🌱 I’m currently learning more about backend development, databases, and API design.  <br>💬 Ask me about backend development, **JavaScript**, **TypeScript**, or anything related!  <br>🚀 Always eager to learn new technologies and improve my coding skills!  <br>
-
+<p style="font-size: 18px;">🔭 I’m currently working on backend projects using <strong>JavaScript</strong> and <strong>TypeScript</strong>.</p>
+<p style="font-size: 18px;">👯 I’m looking to collaborate on backend-focused open-source projects.</p>
+<p style="font-size: 18px;">🌱 I’m currently learning more about backend development, databases, and API design.</p>
+<p style="font-size: 18px;">💬 Ask me about backend development, <strong>JavaScript</strong>, <strong>TypeScript</strong>, or anything related!</p>
+<p style="font-size: 18px;">🚀 Always eager to learn new technologies and improve my coding skills!</p>
 
 ## 🌐 Socials:
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-assegaf-892386266/)
@@ -25,10 +28,3 @@
 ##
 I'd love to collaborate and connect with you! Email me at ahmadasgf89@gmail.com.
 <br>Don't hesitate to message me 🤝 Cheers🥂
-
----
-[![](https://visitcount.itsvg.in/api?id=AhmaddAssegaff&icon=1&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
