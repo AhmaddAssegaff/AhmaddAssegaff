@@ -1,9 +1,9 @@
 # 💫 About Me:
-<p style="font-size: 18px;">🔭 I’m currently working on backend projects using <strong>JavaScript</strong> and <strong>TypeScript</strong>.</p>
-<p style="font-size: 18px;">👯 I’m looking to collaborate on backend-focused open-source projects.</p>
-<p style="font-size: 18px;">🌱 I’m currently learning more about backend development, databases, and API design.</p>
-<p style="font-size: 18px;">💬 Ask me about backend development, <strong>JavaScript</strong>, <strong>TypeScript</strong>, or anything related!</p>
-<p style="font-size: 18px;">🚀 Always eager to learn new technologies and improve my coding skills!</p>
+<span style="font-size: 18px;">🔭 I’m currently working on backend projects using <strong>JavaScript</strong> and <strong>TypeScript</strong>.</span><br>
+<span style="font-size: 18px;">👯 I’m looking to collaborate on backend-focused open-source projects.</span><br>
+<span style="font-size: 18px;">🌱 I’m currently learning more about backend development, databases, and API design.</span><br>
+<span style="font-size: 18px;">💬 Ask me about backend development, <strong>JavaScript</strong>, <strong>TypeScript</strong>, or anything related!</span><br>
+<span style="font-size: 18px;">🚀 Always eager to learn new technologies and improve my coding skills!</span>
 
 ## 🌐 Socials:
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-assegaf-892386266/)
