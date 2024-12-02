@@ -20,7 +20,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmaddAssegaff&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmaddAssegaff&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+##
+I'd love to collaborate and connect with you! Email me at katherinedavenia24@gmail.com.
+<br>Don't hesitate to message me 🤝 Cheers🥂
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmaddAssegaff&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
