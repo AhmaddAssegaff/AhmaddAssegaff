@@ -5,8 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/ahmad-assegaf-892386266/) 
 
-# 💻 Tech Stack:
-## :wrench: My Stacks
+## :wrench 💻 Tech Stack:
 
 | Language | Framework & Library | Styling Library | Database | ORM & Testing | Hosting |
 |----------|---------------------|-----------------|----------|----------------|---------|
