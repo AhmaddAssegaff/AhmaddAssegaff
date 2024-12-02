@@ -2,7 +2,7 @@
 🔭 I’m currently working on backend projects using **JavaScript** and **TypeScript**.  <br>👯 I’m looking to collaborate on backend-focused open-source projects.  <br>🤝 I’m looking for help with improving my knowledge of backend frameworks like **NestJS**.  <br>🌱 I’m currently learning more about backend development, databases, and API design.  <br>💬 Ask me about backend development, **JavaScript**, **TypeScript**, or anything related!  <br>⚡ Fun fact: I’m a high school student with a strong passion for backend development and tech.  <br>🚀 Always eager to learn new technologies and improve my coding skills!  <br>
 
 ## 🌐 Socials:
- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/ahmad-assegaf-892386266/) 
+ - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-assegaf-892386266/)
  - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ahmaddassegaff?igsh=MTRqNzdqYnJjd3RyZg==)
 
 # 💻 Tech Stack:
