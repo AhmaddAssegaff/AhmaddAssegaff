@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on backend projects using **JavaScript** and **TypeScript**.  <br>👯 I’m looking to collaborate on backend-focused open-source projects.  <br>🤝 I’m looking for help with improving my knowledge of backend frameworks like **NestJS**.  <br>🌱 I’m currently learning more about backend development, databases, and API design.  <br>💬 Ask me about backend development, **JavaScript**, **TypeScript**, or anything related!  <br>⚡ Fun fact: I’m a high school student with a strong passion for backend development and tech.  <br>🚀 Always eager to learn new technologies and improve my coding skills!  <br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/ahmad-assegaf-892386266/) 
 
@@ -13,7 +12,7 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23FFFFFF.svg?style=for-the-badge&logo=react&logoColor=black) | | | |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | | | | |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | | | | | |
-| | ![Axios](https://img.shields.io/badge/axios-%2305279c.svg?style=for-the-badge&logo=axios&logoColor=white) | | | | |
+| | | | | | ![Axios](https://img.shields.io/badge/axios-%2305279c.svg?style=for-the-badge&logo=axios&logoColor=white) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmaddAssegaff&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
