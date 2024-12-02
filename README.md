@@ -1,5 +1,5 @@
 # 💫 About Me:
-<span style="font-size: 18px;">🔭 I’m currently working on backend projects using <strong>JavaScript</strong> and <strong>TypeScript</strong>.</span><br>
+<span style="font-size: 180px;">🔭 I’m currently working on backend projects using <strong>JavaScript</strong> and <strong>TypeScript</strong>.</span><br>
 <span style="font-size: 18px;">👯 I’m looking to collaborate on backend-focused open-source projects.</span><br>
 <span style="font-size: 18px;">🌱 I’m currently learning more about backend development, databases, and API design.</span><br>
 <span style="font-size: 18px;">💬 Ask me about backend development, <strong>JavaScript</strong>, <strong>TypeScript</strong>, or anything related!</span><br>
