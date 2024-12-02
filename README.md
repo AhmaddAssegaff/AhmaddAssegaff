@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on backend projects using **JavaScript** and **TypeScript**.  
-👯 I’m looking to collaborate on backend-focused open-source projects.  
-🌱 I’m currently learning more about backend development, databases, and API design.  
-💬 Ask me about backend development, **JavaScript**, **TypeScript**, or anything related!  
-🚀 Always eager to learn new technologies and improve my coding skills!  
+🔭 I’m currently working on backend projects using **JavaScript** and **TypeScript**.<br>
+👯 I’m looking to collaborate on backend-focused open-source projects.<br>
+🌱 I’m currently learning more about backend development, databases, and API design.<br>  
+💬 Ask me about backend development, **JavaScript**, **TypeScript**, or anything related!<br>  
+🚀 Always eager to learn new technologies and improve my coding skills!
 
 
 ## 🌐 Socials:
