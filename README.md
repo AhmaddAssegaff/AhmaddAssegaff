@@ -21,6 +21,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmaddAssegaff&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmaddAssegaff&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<figure><embed src="https://wakatime.com/share/@cd7c1dde-c7c2-490d-b609-f6cd3fcc5814/ac80a9ac-af2f-428e-a4bf-d80725d23ff8.svg"></embed></figure>
+
 ##
 I'd love to collaborate and connect with you! Email me at ahmadasgf89@gmail.com.
 <br>Don't hesitate to message me 🤝 Cheers🥂
