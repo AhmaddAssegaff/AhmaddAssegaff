@@ -31,6 +31,5 @@ I'd love to collaborate and connect with you! Email me at ahmadasgf89@gmail.com.
 <br>Don't hesitate to message me 🤝 Cheers🥂
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddassegaff&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddassegaff" /> </p>
-
+<a href="https://github.com/ahmaddassegaff"><img src="https://komarev.com/ghpvc/?username=ahmaddassegaff&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddassegaff" /></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
