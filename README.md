@@ -9,4 +9,4 @@ you can find me here:<br>
 
 ##### My GitHub Stats
 ![AhmaddAssegaff GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=github_dark_dimmed)
-![AhmaddAssegaff GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmaddAssegaff&theme=one_dark_pro&hide_border=false)
+![AhmaddAssegaff GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmaddAssegaff&theme=github_dark_dimmed&hide_border=false)
