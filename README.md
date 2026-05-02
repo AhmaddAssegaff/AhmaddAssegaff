@@ -11,4 +11,4 @@ you can find me here:<br>
 
 ## My GitHub Stats
 ![AhmaddAssegaff GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=github_dark_dimmed)
-![AhmaddAssegaff GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmaddassegaff&theme=github_dark_dimmed&hide_border=false)
+![AhmaddAssegaff GitHub stats](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=github_dark_dimmed)
