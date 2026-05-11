@@ -10,5 +10,5 @@ you can find me here:<br>
 **linkedin** : [in/ahmaddassegaff](https://www.linkedin.com/in/ahmaddassegaff/)<br>
 
 ## My GitHub Stats
-![AhmaddAssegaff GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=github_dark_dimmed)
-![AhmaddAssegaff GitHub stats](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=github_dark_dimmed)
+![AhmaddAssegaff GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=tokyonight)
+![AhmaddAssegaff GitHub stats](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=tokyonight)
