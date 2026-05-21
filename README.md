@@ -14,4 +14,4 @@ you can find me here:<br>
 
 ## My GitHub Stats
 ![AhmaddAssegaff GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=tokyonight)
-![AhmaddAssegaff GitHub stats](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=tokyonight)
+![AhmaddAssegaff GitHub stats](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=tokyonight&t=123)
