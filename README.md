@@ -13,5 +13,5 @@ you can find me here:<br>
 <!-- [![WakaTime](https://wakatime.com/badge/user/cd7c1dde-c7c2-490d-b609-f6cd3fcc5814.svg)](https://wakatime.com/@cd7c1dde-c7c2-490d-b609-f6cd3fcc5814) -->
 
 ## My GitHub Stats
-![AhmaddAssegaff GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=tokyonight)
-![AhmaddAssegaff GitHub stats](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=tokyonight&t=123)
+![AhmaddAssegaff GitHub Stats](https://github-stats-extended.vercel.app/api?username=ahmaddassegaff&show_icons=true&theme=tokyonight)
+![AhmaddAssegaff GitHub Streak](https://streak-stats.demolab.com/?user=ahmaddassegaff&theme=tokyonight)
